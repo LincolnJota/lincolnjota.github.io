@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "06f4542b2946841189cb6a8876c81791",
+"assets/assets/cavalo-meme.gif": "298ce45730b34d9d8405c6481417dbd7",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "ebf39030a60e18dbd4f0a990099d5205",
@@ -13,9 +14,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8cafa633d08b62a192b7bfd5a55ea3ed",
-"/": "8cafa633d08b62a192b7bfd5a55ea3ed",
-"main.dart.js": "a11dff3772b45685564643259528fb31",
+"index.html": "b3040c3e13bb3a0e2236c5e531e1984b",
+"/": "b3040c3e13bb3a0e2236c5e531e1984b",
+"main.dart.js": "7194d5636f0c073a0e5c918099c5edf2",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
